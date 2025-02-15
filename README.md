@@ -1,4 +1,4 @@
-# VISION - A VOICE ASSISTANT
+# BLIND ASSIST – ML-Based Android Application
 
 This android app made using kotlin is for visually impaired people.
 
@@ -12,4 +12,14 @@ The proposed system is to build a customized application which acts as a voice a
 3)Time/Date and Battery Status – In this module the user can get the phone’s current battery status and also know date and time.
 
 4)Camera – This module will be used to identify Indian currency denomination and predict the notes scanned by the camera.    
+
+**KEY FEATURES:**
+
+Messaging & Calls: Reads messages aloud and enables voice-based texting and calling.
+
+Device Status Updates: Provides real-time battery status, date, and time.
+
+Camera-Based Currency Recognition: Uses Machine Learning & Computer Vision to identify Indian currency denominations.
+
+Text-to-Speech (TTS) & Speech Recognition APIs for hands-free interaction.
 
